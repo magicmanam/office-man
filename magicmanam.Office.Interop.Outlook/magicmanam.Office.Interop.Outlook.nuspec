@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>magicmanam.Office.Interop.Outlook</id>
+    <version>1.0.0.0</version>
+    <title>Outlook email interceptor and some Outlook interop extensions</title>
+    <authors>Andrei Muski</authors>
+    <owners>magicmanam</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/magicmanam/office-man</projectUrl>
+    <description>Contains Outlook email interceptor for advanced email processing on computer with Microsoft Office Outlook application installed. Also contains some office interop extensions for outlook items creation.</description>
+    <releaseNotes>Contains email interceptor </releaseNotes>
+    <copyright>Copyright ©2019 magicmanam</copyright>
+    <tags>Microsoft-Office Outlook Email-Interceptor Outlook-Rule</tags>
+    <dependencies>
+      <dependency id="Microsoft.Office.Interop.Outlook" version="15.0.4797.1003" />
+    </dependencies>
+  </metadata>
+</package>
